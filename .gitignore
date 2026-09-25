@@ -1,0 +1,6 @@
+# 运行时与临时产物
+*.bak-*
+.DS_Store
+__pycache__/
+*.pyc
+.codebase-memory/
