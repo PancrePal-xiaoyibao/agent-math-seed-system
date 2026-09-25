@@ -14,3 +14,4 @@
 - **注入层**：`AGENT-INJECTION.md`（通用注入提示词：六步流程 + 浮点三禁 + 统计三查 + 红线）。
 - **部署层**：`deploy/`（Claude Code 一键脚本 `install-claude-skill.sh` + CLAUDE.md 薄注入片段；OpenClaw workspace 平铺方案；Codex/通用规则文件方案）；`README.md` 各 agent 复制即用部署指令与验收标准。
 - **激活词原理**（与美学大脑同源）：数学工具名是 LLM 预训练知识的标准锚点——「用 Welch's t 检验」「先查条件数」比模糊形容可执行得多；本系统的职责是选对工具名 + 把已知陷阱翻译成规避动作。
+- **开源协议**：Apache-2.0——宽松之上带三层保护（专利 retaliation / 商标排除 / NOTICE 署名机制），免责条款与本项目"结论必须带误差棒"的第一课同构。

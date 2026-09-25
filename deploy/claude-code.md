@@ -6,7 +6,7 @@
 ## 方式 A：一键脚本（推荐）
 
 ```bash
-git clone <仓库地址>
+git clone https://github.com/hhx465453939/agent-math-seed-system
 bash agent-math-seed-system/deploy/install-claude-skill.sh
 ```
 

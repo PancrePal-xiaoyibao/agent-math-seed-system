@@ -7,7 +7,7 @@
 1. 把 `MATH.md` 和 `references/math-seeds.md` 放到一个**固定绝对路径**（建议 `~/agent-math-seed-system/`，直接 clone 本仓库即可）：
 
 ```bash
-git clone <仓库地址> ~/agent-math-seed-system
+git clone https://github.com/hhx465453939/agent-math-seed-system ~/agent-math-seed-system
 ```
 
 2. 把下面薄注入片段贴进全局规则文件（注意把路径换成上一步的实际路径）：
